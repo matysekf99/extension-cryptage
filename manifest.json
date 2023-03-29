@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Crypt",
+    "version": "1.0",
+    "description": "Cryptage de texte",
+    "action": {
+        "default_popup": "popup.html" 
+      },
+      "permissions": [
+        "activeTab"
+      ]
+  }
